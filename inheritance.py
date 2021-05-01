@@ -29,3 +29,4 @@ Chulsoo.eat
 
 # Child_one은 상속이나 속성없는 빈(empty) 클래스
 # Child_two은 parent 클래스를 상속받아 give/take 속성사용가능
+
