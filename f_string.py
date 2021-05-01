@@ -13,3 +13,4 @@ string_result_pen = f'펜의 가격은 {pen} 입니다'
 
 print(string_result_pencil)
 print(string_result_pen)
+
