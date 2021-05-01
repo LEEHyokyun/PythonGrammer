@@ -16,3 +16,4 @@ print(array[0]) #정상출력
 dictionary_in_array = [{'pencil': 3500}, {'pen' : 2500}]
 print(dictionary_in_array[0]) #정상출력
 print(dictionary_in_array[0]['pencil']) #정상출력
+
