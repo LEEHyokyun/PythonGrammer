@@ -36,12 +36,10 @@ for i in range (5):
     B[i] = i
 print(B)
 
-C = {{}}
+#공딕셔너리에서 반복문을 통한 중첩딕셔너리 값저장 불가
+#C = {{}}
 #for i in range(5):
     #for j in range(5):
         #C[i][j] = 1
 #print(C)
 
-C[1][1] = 1
-C[1][2] = 2
-print(C)
