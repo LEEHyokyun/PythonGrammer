@@ -29,6 +29,7 @@ n = int(sys.stdin.readline())
 for i in range(n):
     array_square.append(list(map(int, sys.stdin.readline().split())))
 # 출력시 N(입력받은 정수의 개수) * n(반복횟수, 행의 수)
+# list가 없어지면 object 자체로 인식하여, 저장된 메모리값이 출력됨
 print(array_square)
 
 # 입력받은 문자열 자체로 배열/리스트에 저장하는 경우
